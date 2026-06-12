@@ -29,3 +29,5 @@ jobs:
           SHOW_LINES_OF_CODE: "False"
           SHOW_UPDATED_DATE: "False"
           DEBUG_LOGGING: "True"
+          # Plinqer 조직 레포 제외 (브랜치가 너무 많아 통계 수집이 수십 분 지연됨)
+          IGNORED_REPOS: "Photoism3.0, goods-cms-back, Photoism2023, PORT"
