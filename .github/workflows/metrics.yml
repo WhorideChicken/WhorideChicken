@@ -21,8 +21,6 @@ jobs:
           user: WhorideChicken
           filename: github-metrics.svg
           template: classic
-          # 조직/협업 레포까지 언어 집계에 포함 (Tarot 등 MousePotate·Plinqer 소유 레포)
-          repositories_affiliations: owner, collaborator, organization_member
           base: header, activity, community, repositories, metadata
           # 🦉 밤·요일 인사이트가 한국 시간 기준으로 계산되도록
           config_timezone: Asia/Seoul
