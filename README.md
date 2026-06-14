@@ -42,4 +42,4 @@ Sunday                   217 commits         ██████████░�
 
 ## 🛠 Tech Stack
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,dotnet,unity,opencv,flutter,nodejs,aws&theme=dark" width="280" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,dotnet,unity,opencv,flutter,js,nodejs,aws&theme=dark" width="280" /></a>
