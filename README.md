@@ -1,9 +1,7 @@
 <!-- 위트 배너: 한 번만 타이핑되고 멈춤 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D26A&repeat=false&vCenter=true&width=620&height=60&lines=Hi%2C+I%27m+a+programmer+and+I+have+no+life.)](https://git.io/typing-svg)
 
-### 🎮 Game Developer · Unity / C# &nbsp;|&nbsp; 🌐 Web & Backend
-
-> 게임부터 웹까지, 직접 만들어 출시하는 걸 좋아하는 개발자입니다.
+<!-- TODO: 한 줄 자기소개를 직접 채우세요. 예) "### Backend Developer" 등 -->
 
 <!-- TODO: 아래 링크들을 본인 것으로 바꾸세요. 없는 줄은 통째로 지우면 됩니다. -->
 [![Email](https://img.shields.io/badge/Mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
@@ -15,8 +13,8 @@
 
 ## 🛠 Tech Stack
 
-<!-- TODO: 실제로 깊이 다루는 것만 남기세요. https://skillicons.dev 에서 더 추가/삭제 가능 -->
-[![My Skills](https://skillicons.dev/icons?i=cs,unity,js,ts,react,nodejs,html,css,git,github&theme=dark)](https://skillicons.dev)
+<!-- TODO: 본인이 실제로 쓰는 기술로 채우세요. i= 뒤에 콤마로 나열. 목록: https://skillicons.dev -->
+[![My Skills](https://skillicons.dev/icons?i=git,github&theme=dark)](https://skillicons.dev)
 
 ---
 
