@@ -7,12 +7,6 @@
 
 ---
 
-## 🛠 Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,unity,opencv,flutter,nodejs,aws&theme=dark)](https://skillicons.dev)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -49,3 +43,9 @@ Sunday                   217 commits         ██████████░�
 
 
 <!--END_SECTION:waka-->
+
+---
+
+## 🛠 Tech Stack
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,dotnet,unity,opencv,flutter,nodejs,aws&theme=dark" width="280" /></a>
