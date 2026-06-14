@@ -25,6 +25,8 @@ jobs:
           base: header, activity, community, repositories, metadata
           # 🦉 밤·요일 인사이트가 한국 시간 기준으로 계산되도록
           config_timezone: Asia/Seoul
+          # habits 플러그인이 봇 커밋(author 없음)을 읽다 죽는 버그 회피 — 프로필 레포 제외
+          repositories_skipped: WhorideChicken/WhorideChicken
 
           # 🌙 habits: "주로 밤에 / 일요일에 활동" 인사이트를 이미지로
           plugin_habits: yes
