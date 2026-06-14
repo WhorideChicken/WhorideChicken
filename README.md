@@ -5,8 +5,6 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=WhorideChicken&color=00D26A&style=flat&label=Visitors)
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -14,8 +12,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=WhorideChicken&theme=transparent&hide_border=true&ring=00D26A&fire=00D26A&currStreakLabel=00D26A)](https://github.com/WhorideChicken)
 
 </div>
-
----
 
 ## ⏰ When I Code
 
@@ -43,8 +39,6 @@ Sunday                   217 commits         ██████████░�
 
 
 <!--END_SECTION:waka-->
-
----
 
 ## 🛠 Tech Stack
 
