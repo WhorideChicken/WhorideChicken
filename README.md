@@ -31,4 +31,26 @@
 ## ⏰ When I Code
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                97 commits          █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+🌆 Daytime                136 commits         ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
+🌃 Evening                138 commits         ███████░░░░░░░░░░░░░░░░░░   26.34 % 
+🌙 Night                  153 commits         ███████░░░░░░░░░░░░░░░░░░   29.20 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   28 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+Tuesday                  19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+Wednesday                27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+Thursday                 26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+Friday                   116 commits         ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
+Saturday                 91 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
+Sunday                   217 commits         ██████████░░░░░░░░░░░░░░░   41.41 % 
+```
+
+
+
 <!--END_SECTION:waka-->
