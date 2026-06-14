@@ -20,7 +20,8 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
           user: WhorideChicken
           filename: github-metrics.svg
-          template: classic
+          # 터미널 창 스타일 (배너의 터미널 감성과 통일)
+          template: terminal
           base: header, activity, community, repositories, metadata
           # 🦉 밤·요일 인사이트가 한국 시간 기준으로 계산되도록
           config_timezone: Asia/Seoul
