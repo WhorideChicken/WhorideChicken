@@ -3,10 +3,6 @@
 
 <!-- TODO: 한 줄 자기소개를 직접 채우세요. 예) "### Backend Developer" 등 -->
 
-<!-- TODO: 아래 링크들을 본인 것으로 바꾸세요. 없는 줄은 통째로 지우면 됩니다. -->
-[![Email](https://img.shields.io/badge/Mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-id/)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat&logo=googlechrome&logoColor=white)](https://your-blog.com)
 ![Visitors](https://komarev.com/ghpvc/?username=WhorideChicken&color=00D26A&style=flat&label=Visitors)
 
 ---
