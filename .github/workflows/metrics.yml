@@ -1,0 +1,42 @@
+name: Metrics
+
+on:
+  schedule:
+    # 매일 KST 오전 9시 (UTC 0시)에 실행
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: ["main"]
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # waka 때 만든 GH_TOKEN(classic, repo 권한)을 그대로 재사용 — 새 시크릿 불필요
+          token: ${{ secrets.GH_TOKEN }}
+          user: WhorideChicken
+          filename: github-metrics.svg
+          template: classic
+          base: header, activity, community, repositories, metadata
+          # 🦉 밤·요일 인사이트가 한국 시간 기준으로 계산되도록
+          config_timezone: Asia/Seoul
+
+          # 🌙 habits: "주로 밤에 / 일요일에 활동" 인사이트를 이미지로
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          # 📅 isocalendar: 입체 잔디 캘린더 (1년)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # 💬 languages: 비공개 레포 언어까지 집계 (토큰에 repo 권한 있음)
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8

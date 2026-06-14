@@ -26,33 +26,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=WhorideChicken&theme=transparent&hide_border=true&ring=00D26A&fire=00D26A&currStreakLabel=00D26A)](https://github.com/WhorideChicken)
 
+<!-- metrics 워크플로우가 처음 실행되면 아래 이미지가 생성됩니다 -->
+![Metrics](github-metrics.svg)
+
 </div>
-
----
-
-## ⏰ When I Code
-
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                138 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-🌆 Daytime                349 commits         ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
-🌃 Evening                595 commits         ██████████░░░░░░░░░░░░░░░   38.02 % 
-🌙 Night                  483 commits         ████████░░░░░░░░░░░░░░░░░   30.86 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   118 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-Tuesday                  192 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-Wednesday                180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-Thursday                 130 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-Friday                   270 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-Saturday                 191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-Sunday                   484 commits         ████████░░░░░░░░░░░░░░░░░   30.93 % 
-```
-
-
-
-<!--END_SECTION:waka-->
