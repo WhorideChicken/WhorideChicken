@@ -3,8 +3,6 @@
 
 <!-- TODO: 한 줄 자기소개를 직접 채우세요. 예) "### Backend Developer" 등 -->
 
-## 📊 GitHub Stats
-
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=WhorideChicken&theme=transparent&hide_border=true&ring=00D26A&fire=00D26A&currStreakLabel=00D26A)](https://github.com/WhorideChicken)
