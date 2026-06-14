@@ -9,7 +9,6 @@
 
 ## 🛠 Tech Stack
 
-<!-- TODO: 본인이 실제로 쓰는 기술로 채우세요. i= 뒤에 콤마로 나열. 목록: https://skillicons.dev -->
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,unity,opencv,flutter,nodejs,aws&theme=dark)](https://skillicons.dev)
 
 ---
