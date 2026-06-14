@@ -3,8 +3,6 @@
 
 <!-- TODO: 한 줄 자기소개를 직접 채우세요. 예) "### Backend Developer" 등 -->
 
-![Visitors](https://komarev.com/ghpvc/?username=WhorideChicken&color=00D26A&style=flat&label=Visitors)
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -43,3 +41,9 @@ Sunday                   217 commits         ██████████░�
 ## 🛠 Tech Stack
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,dotnet,unity,opencv,flutter,js,nodejs,aws&theme=dark" width="280" /></a>
+
+<div align="right">
+
+![Visitors](https://komarev.com/ghpvc/?username=WhorideChicken&color=00D26A&style=flat&label=Visitors)
+
+</div>
