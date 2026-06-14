@@ -17,8 +17,6 @@
 
 </div>
 
----
-
 ## ⏰ When I Code
 
 <!--START_SECTION:waka-->
