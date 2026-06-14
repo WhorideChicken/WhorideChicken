@@ -24,7 +24,11 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=WhorideChicken&theme=transparent&hide_border=true&ring=00D26A&fire=00D26A&currStreakLabel=00D26A)](https://github.com/WhorideChicken)
 
-<!-- metrics 워크플로우가 처음 실행되면 아래 이미지가 생성됩니다 -->
-![Metrics](github-metrics.svg)
-
 </div>
+
+---
+
+## ⏰ When I Code
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
