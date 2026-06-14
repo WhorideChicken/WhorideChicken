@@ -24,9 +24,6 @@
 
 <div align="center">
 
-[![WhorideChicken's stats](https://github-readme-stats.vercel.app/api?username=WhorideChicken&show_icons=true&theme=transparent&hide_border=true&title_color=00D26A&icon_color=00D26A&include_all_commits=true&count_private=true)](https://github.com/WhorideChicken)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhorideChicken&layout=compact&theme=transparent&hide_border=true&title_color=00D26A&langs_count=8)](https://github.com/WhorideChicken)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=WhorideChicken&theme=transparent&hide_border=true&ring=00D26A&fire=00D26A&currStreakLabel=00D26A)](https://github.com/WhorideChicken)
 
 </div>
