@@ -1,5 +1,5 @@
 <!-- 위트 배너: 한 번만 타이핑되고 멈춤 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D26A&repeat=false&vCenter=true&width=620&height=60&lines=Hi%2C+I%27m+a+programmer+and+I+have+no+life.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D26A&repeat=false&vCenter=true&width=620&height=60&lines=Hi%2C+I%27m+a+programmer,+I+have+no+life.)](https://git.io/typing-svg)
 
 <!-- TODO: 한 줄 자기소개를 직접 채우세요. 예) "### Backend Developer" 등 -->
 
