@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=WhorideChicken&theme=transparent&hide_border=true&ring=00D26A&fire=00D26A&currStreakLabel=00D26A&v=2)](https://github.com/WhorideChicken)
+[![GitHub Streak](https://streak-stats.demolab.com?user=WhorideChicken&theme=transparent&hide_border=true&ring=00D26A&fire=00D26A&currStreakLabel=00D26A&v=3)](https://github.com/WhorideChicken)
 
 </div>
 
