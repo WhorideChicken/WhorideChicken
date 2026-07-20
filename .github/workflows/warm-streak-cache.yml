@@ -1,0 +1,50 @@
+name: Warm Streak Cache
+
+# streak-stats는 카드를 24시간 캐싱한다.
+# 캐시가 만료된 뒤 "첫 요청"은 재생성 때문에 20~30초가 걸리는데,
+# 그 첫 요청을 GitHub Camo(이미지 프록시)가 맞으면 4초 제한에 걸려 실패하고
+# 깨진 이미지를 캐싱해버린다 → README에서 Streak 카드가 깨져 보임.
+#
+# 그래서 이 워크플로가 주기적으로 먼저 호출해서 재생성 비용을 대신 부담한다.
+# 결과적으로 Camo는 언제 오든 이미 데워진(0.3초) 캐시를 만나게 된다.
+
+on:
+  schedule:
+    # 30분마다 — 캐시 만료 후 Camo가 콜드 상태를 만날 수 있는 창을 최대 30분으로 제한
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+jobs:
+  warm:
+    name: Ping streak-stats to keep cache warm
+    runs-on: ubuntu-latest
+    steps:
+      - name: Request streak card
+        run: |
+          # README의 이미지 주소와 완전히 동일해야 같은 캐시 항목을 데운다.
+          # README를 수정하면 이 URL도 함께 바꿀 것.
+          URL="https://streak-stats.demolab.com?user=WhorideChicken&theme=transparent&hide_border=true&ring=00D26A&fire=00D26A&currStreakLabel=00D26A&v=3"
+
+          # 콜드 생성은 30초 가까이 걸릴 수 있어 넉넉히 기다린다.
+          out=$(curl -s -o /tmp/streak.svg \
+                     -w '%{http_code} %{time_total} %{size_download}' \
+                     -m 90 "$URL") || out="000 0 0"
+
+          code=$(echo "$out" | cut -d' ' -f1)
+          elapsed=$(echo "$out" | cut -d' ' -f2)
+          size=$(echo "$out" | cut -d' ' -f3)
+
+          echo "status=$code  time=${elapsed}s  size=${size}bytes"
+
+          if [ "$code" != "200" ]; then
+            echo "::warning::캐시 워밍 실패 (status=$code). 다음 실행에서 재시도된다."
+            exit 0
+          fi
+
+          # 정상 카드는 SVG다. 에러 응답을 캐시로 착각하지 않도록 확인한다.
+          if ! head -c 200 /tmp/streak.svg | grep -qi "svg"; then
+            echo "::warning::SVG가 아닌 응답을 받았다. 서비스 장애일 수 있다."
+            exit 0
+          fi
+
+          echo "캐시 워밍 완료 — Camo가 다음에 요청하면 즉시 응답받는다."
