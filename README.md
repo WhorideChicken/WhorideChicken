@@ -7,6 +7,11 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=WhorideChicken&theme=transparent&hide_border=true&ring=00D26A&fire=00D26A&currStreakLabel=00D26A&v=3)](https://github.com/WhorideChicken)
 
+<!-- 아래 블록은 .github/workflows/viberank-card.yml이 매일 갈아끼운다. 직접 수정하지 말 것. -->
+<!--START_SECTION:viberank-->
+<a href="https://viberank.app/profile/WhorideChicken"><img src="https://www.viberank.app/api/og?type=profile&username=WhorideChicken&cost=7682&tokens=8.5B&rank=182&days=73&streak=17&tools=claude%2Ccodex%2Cgemini&hm=0000000000000000000000000000000000000000011102300221111111112001334432322432122203103443320442032212344443443344&v=7682-73-182" width="480" alt="WhorideChicken on Viberank" /></a>
+<!--END_SECTION:viberank-->
+
 </div>
 
 ## ⏰ When I Code
