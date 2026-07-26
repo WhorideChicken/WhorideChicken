@@ -5,12 +5,12 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=WhorideChicken&theme=transparent&hide_border=true&ring=00D26A&fire=00D26A&currStreakLabel=00D26A&v=3)](https://github.com/WhorideChicken)
+<!-- 두 카드는 반드시 한 줄에 둔다. 사이에 빈 줄이 들어가면 문단이 분리되어 위아래로 쌓인다. -->
+<!-- height로 높이를 맞춘다: streak는 400x195, viberank는 1200x630이라 비율이 달라 width로는 안 맞는다. -->
+<!-- streak의 card_width=400은 하한이다. 더 좁히면 "Jan 18, 2022 - Present"가 구분선에 닿는다. -->
+<!-- 마커 사이는 .github/workflows/viberank-card.yml이 매일 갈아끼운다. 직접 수정하지 말 것. -->
 
-<!-- 아래 블록은 .github/workflows/viberank-card.yml이 매일 갈아끼운다. 직접 수정하지 말 것. -->
-<!--START_SECTION:viberank-->
-<a href="https://viberank.app/profile/WhorideChicken"><img src="https://www.viberank.app/api/og?type=profile&username=WhorideChicken&cost=7682&tokens=8.5B&rank=182&days=73&streak=17&tools=claude%2Ccodex%2Cgemini&hm=0000000000000000000000000000000000000000011102300221111111112001334432322432122203103443320442032212344443443344&v=7682-73-182" width="480" alt="WhorideChicken on Viberank" /></a>
-<!--END_SECTION:viberank-->
+<a href="https://github.com/WhorideChicken"><img height="185" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=WhorideChicken&theme=transparent&hide_border=true&ring=00D26A&fire=00D26A&currStreakLabel=00D26A&card_width=400&v=3" /></a> <!--START_SECTION:viberank--><a href="https://viberank.app/profile/WhorideChicken"><img height="185" alt="WhorideChicken on Viberank" src="https://www.viberank.app/api/og?type=profile&username=WhorideChicken&cost=7682&tokens=8.5B&rank=182&days=73&streak=17&tools=claude%2Ccodex%2Cgemini&hm=0000000000000000000000000000000000000000011102300221111111112001334432322432122203103443320442032212344443443344&v=7682-73-182" /></a><!--END_SECTION:viberank-->
 
 </div>
 

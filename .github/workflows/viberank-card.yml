@@ -61,10 +61,13 @@ jobs:
           readme = pathlib.Path("README.md")
           text = readme.read_text(encoding="utf-8")
 
+          # 반드시 한 줄로 만든다. streak 카드와 같은 줄에 있어야 나란히 렌더링되는데,
+          # 블록 안에 줄바꿈이 들어가면 문단이 쪼개져 카드가 아래로 떨어진다.
+          # 높이는 streak 카드(card_width=400 기준 400x195)와 맞춘 185다.
           block = (
-              "<!--START_SECTION:viberank-->\n"
+              "<!--START_SECTION:viberank-->"
               f'<a href="https://viberank.app/profile/{username}">'
-              f'<img src="{url}" width="480" alt="{username} on Viberank" /></a>\n'
+              f'<img height="185" alt="{username} on Viberank" src="{url}" /></a>'
               "<!--END_SECTION:viberank-->"
           )
 
