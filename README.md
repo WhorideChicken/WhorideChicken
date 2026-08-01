@@ -10,7 +10,7 @@
 <!-- streak의 card_width=400은 하한이다. 더 좁히면 "Jan 18, 2022 - Present"가 구분선에 닿는다. -->
 <!-- 마커 사이는 .github/workflows/viberank-card.yml이 매일 갈아끼운다. 직접 수정하지 말 것. -->
 
-<a href="https://github.com/WhorideChicken"><img height="185" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=WhorideChicken&theme=transparent&hide_border=true&ring=00D26A&fire=00D26A&currStreakLabel=00D26A&card_width=400&v=3" /></a> <!--START_SECTION:viberank--><a href="https://viberank.app/profile/WhorideChicken"><img height="185" alt="WhorideChicken on Viberank" src="https://www.viberank.app/api/og?type=profile&username=WhorideChicken&cost=8508&tokens=9.2B&rank=190&days=78&streak=22&tools=claude%2Ccodex%2Cgemini&hm=0000000000000000000000000000000000000111011002211111111120013234323224321222031034433204420322223444434433443434&v=8508-78-190" /></a><!--END_SECTION:viberank-->
+<a href="https://github.com/WhorideChicken"><img height="185" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=WhorideChicken&theme=transparent&hide_border=true&ring=00D26A&fire=00D26A&currStreakLabel=00D26A&card_width=400&v=3" /></a> <!--START_SECTION:viberank--><a href="https://viberank.app/profile/WhorideChicken"><img height="185" alt="WhorideChicken on Viberank" src="https://www.viberank.app/api/og?type=profile&username=WhorideChicken&cost=8871&tokens=9.7B&rank=188&days=79&streak=23&tools=claude%2Ccodex%2Cgemini&hm=0000000000000000000000000000000000011101100221111111112001323432322432122203103442320442032212343443443344343443&v=8871-79-188" /></a><!--END_SECTION:viberank-->
 
 </div>
 
