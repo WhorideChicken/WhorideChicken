@@ -5,12 +5,9 @@
 
 <div align="center">
 
-<!-- 두 카드는 반드시 한 줄에 둔다. 사이에 빈 줄이 들어가면 문단이 분리되어 위아래로 쌓인다. -->
-<!-- height로 높이를 맞춘다: streak는 400x195, viberank는 1200x630이라 비율이 달라 width로는 안 맞는다. -->
 <!-- streak의 card_width=400은 하한이다. 더 좁히면 "Jan 18, 2022 - Present"가 구분선에 닿는다. -->
-<!-- 마커 사이는 .github/workflows/viberank-card.yml이 매일 갈아끼운다. 직접 수정하지 말 것. -->
 
-<a href="https://github.com/WhorideChicken"><img height="185" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=WhorideChicken&theme=transparent&hide_border=true&ring=00D26A&fire=00D26A&currStreakLabel=00D26A&card_width=400&v=4" /></a> <!--START_SECTION:viberank--><a href="https://viberank.app/profile/WhorideChicken"><img height="185" alt="WhorideChicken on Viberank" src="https://www.viberank.app/api/og?type=profile&username=WhorideChicken&cost=8871&tokens=9.7B&rank=191&days=79&tools=claude%2Ccodex%2Cgemini&hm=0000000000000000000000000000000011101100221111111112001323432322432122203103442320442032212343443443344343443000&v=8871-79-191" /></a><!--END_SECTION:viberank-->
+<a href="https://github.com/WhorideChicken"><img height="185" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=WhorideChicken&theme=transparent&hide_border=true&ring=00D26A&fire=00D26A&currStreakLabel=00D26A&card_width=400&v=4" /></a>
 
 </div>
 
@@ -44,6 +41,13 @@ Sunday                   699 commits         ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀�
 ## 🛠 Tech Stack
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,dotnet,unity,opencv,flutter,js,nodejs,aws&theme=dark" width="280" /></a>
+
+<div align="center">
+
+<!-- 마커 사이는 .github/workflows/viberank-card.yml이 매일 갈아끼운다. 직접 수정하지 말 것. -->
+<!--START_SECTION:viberank--><a href="https://viberank.app/profile/WhorideChicken"><img height="185" alt="WhorideChicken on Viberank" src="https://www.viberank.app/api/og?type=profile&username=WhorideChicken&cost=8871&tokens=9.7B&rank=191&days=79&tools=claude%2Ccodex%2Cgemini&hm=0000000000000000000000000000000011101100221111111112001323432322432122203103442320442032212343443443344343443000&v=8871-79-191" /></a><!--END_SECTION:viberank-->
+
+</div>
 
 <div align="right">
 
