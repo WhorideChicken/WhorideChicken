@@ -23,7 +23,7 @@ jobs:
         run: |
           # README의 이미지 주소와 완전히 동일해야 같은 캐시 항목을 데운다.
           # README를 수정하면 이 URL도 함께 바꿀 것.
-          URL="https://streak-stats.demolab.com?user=WhorideChicken&theme=transparent&hide_border=true&ring=00D26A&fire=00D26A&currStreakLabel=00D26A&card_width=400&v=3"
+          URL="https://streak-stats.demolab.com?user=WhorideChicken&theme=transparent&hide_border=true&ring=00D26A&fire=00D26A&currStreakLabel=00D26A&card_width=400&v=4"
 
           # 콜드 생성은 30초 가까이 걸릴 수 있어 넉넉히 기다린다.
           out=$(curl -s -o /tmp/streak.svg \
