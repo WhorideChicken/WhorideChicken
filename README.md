@@ -45,7 +45,7 @@ Sunday                   747 commits         ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀�
 <div align="center">
 
 <!-- 마커 사이는 .github/workflows/viberank-card.yml이 매일 갈아끼운다. 직접 수정하지 말 것. -->
-<!--START_SECTION:viberank--><a href="https://viberank.app/profile/WhorideChicken"><img height="185" alt="WhorideChicken on Viberank" src="https://www.viberank.app/api/og?type=profile&username=WhorideChicken&cost=10089&tokens=11.1B&rank=180&days=84&streak=28&tools=claude%2Ccodex%2Cgemini&hm=0000000000000000000000000000001110110022111111111200132343222243212220310344232044203221234344344333434344443341&v=10089-84-180" /></a><!--END_SECTION:viberank-->
+<!--START_SECTION:viberank--><a href="https://viberank.app/profile/WhorideChicken"><img height="185" alt="WhorideChicken on Viberank" src="https://www.viberank.app/api/og?type=profile&username=WhorideChicken&cost=10754&tokens=11.9B&rank=173&days=85&streak=29&tools=claude%2Ccodex%2Cgemini&hm=0000000000000000000000000000011101100221111111112001223332222432122203103442310442032212343443442334343444433344&v=10754-85-173" /></a><!--END_SECTION:viberank-->
 
 </div>
 
