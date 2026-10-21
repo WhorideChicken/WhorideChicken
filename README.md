@@ -9,7 +9,6 @@
 
 <a href="https://github.com/WhorideChicken"><img height="185" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=WhorideChicken&theme=transparent&hide_border=true&ring=00D26A&fire=00D26A&currStreakLabel=00D26A&card_width=400&v=4" /></a>
 
-[![viberank](https://www.viberank.app/api/badge/WhorideChicken)](https://viberank.app/profile/WhorideChicken) [![tokens](https://www.viberank.app/api/badge/WhorideChicken?metric=tokens)](https://viberank.app/profile/WhorideChicken)
 
 </div>
 
